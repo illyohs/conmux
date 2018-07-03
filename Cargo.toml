@@ -1,0 +1,8 @@
+[package]
+name = "conmux"
+version = "0.1.0"
+authors = ["Anthony Anderson <anderson@mdhs.info>"]
+
+[dependencies]
+stick = "0.4.0"
+gilrs = "0.6.0"
